@@ -1,2 +1,7 @@
 # HJ7
-This repo will contain code to reproduce computations from the HJ7 announcement paper
+
+Exact calculations accompanying *A septic covariant and the Hermite--Joubert problem in degree seven*.
+
+```bash
+python -m pip install -r requirements.txt
+python run_all.py
